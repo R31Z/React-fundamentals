@@ -1,4 +1,4 @@
-###React Is Declarative
+### React Is Declarative
 
 We'll get to writing React code very soon, but let's take another glimpse at it to show how it's declarative.
 
